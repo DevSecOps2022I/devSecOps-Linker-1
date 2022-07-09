@@ -1,7 +1,7 @@
 # Laboratorio Curso de DevSecOps / SRE - Escuela de Verano
 Objetivo: Crear un proyecto de desarrollo de software cuyo producto final sea una implementación del caso de estudio Linker.
 
-#Cadena de Valor
+# Cadena de Valor
 Con el objetivo de facilitar el desarrollo de las actividades de nuevos miembros del equipo, se configuró este flujo que permite al desarrollador realizar despliegues seguros en ambientes operativos.
 
 1. Sitio colaborativo con la inclusión de herramientas aplicables par ael desarrollo y operación de los servicios.
@@ -13,6 +13,17 @@ Con el objetivo de facilitar el desarrollo de las actividades de nuevos miembros
 # Qué hay en el repositorio
 circleci: Aqui se encuentra la configuración para realizar pruebas de código
 pages/styles: Aquí se encuentran los archivos js 
+
+# Recursos
+
+Los recursos utilizados para el desarrollo de linker fueron
+NEXT.js
+PRISMA
+REACT
+PostgreSQL
+
+# Link del repositorio
+https://github.com/DevSecOps2022I/devSecOps-Linker-1.git
 
 # Linker App
 
