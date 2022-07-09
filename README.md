@@ -22,8 +22,12 @@ PRISMA
 REACT
 PostgreSQL
 
-# Link del repositorio
+# Links utiles
+GitHub repository
 https://github.com/DevSecOps2022I/devSecOps-Linker-1.git
+
+Heroku App
+https://proyecto2022i.herokuapp.com/
 
 # Linker App
 
