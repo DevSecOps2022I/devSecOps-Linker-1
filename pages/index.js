@@ -39,7 +39,7 @@ export default function Home() {
             <input ref={inputRef} type="text" className={styles.input} placeholder="URL" />
             <button className={styles.button}>Acortar</button>
             {shortURL?
-            <a className={styles.input}>localhost:3000/{shortURL}</a>
+            <a className={styles.input}>{shortURL}</a>
             :<a className={styles.input}></a>
             }
 
