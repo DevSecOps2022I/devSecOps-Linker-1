@@ -14,7 +14,7 @@ Con el objetivo de facilitar el desarrollo de las actividades de nuevos miembros
 - **CodeQL:** Aquí se encuentra la configuración del motor de análisis de código desarrollado por GitHub para automatizar los controles de seguridad.
 - **Carpeta /pages:** Aquí se encuentran los archivos js.
 - **Carpeta /prisma:** Aquí se encuentra la configuración del ORM.
-- **Carpeta /style:** Aqui se ebcuentran los archivos css.
+- **Carpeta /style:** Aqui se encuentran los archivos css.
 
 # ¿Cómo trabajamos en equipo? 
 
