@@ -69,6 +69,9 @@ Visual Studio Code,
 Heroku,
 CircleCI.
 
+# Ejecutar proyecto
+Para ejecutar el proyecto, ejecutar el comando **npm run dev**
+
 # Licencia
 Licencia de funcionamiento GNU
 
